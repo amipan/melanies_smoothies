@@ -3,7 +3,7 @@ import streamlit as st
 #from snowflake.snowpark.context import get_active_session
 
 # Write directly to the app
-st.title("Custom Smootie :candy:")
+st.title("My HealthyParents  Diner :candy:")
 st.write(
     """Replace this example with your own code!
     **And if you're new to Streamlit,** check
