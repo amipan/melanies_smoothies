@@ -31,7 +31,7 @@ st.dataframe(pd_df)
 
 ingredients_list = st.multiselect(
     'Chosse up to 5 ingredients', my_dataframe
-    , max_selections = 4
+    , max_selections = 5
 )
 
 name_on_order  =st.text_input('Name on smoothie')
